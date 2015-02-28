@@ -25,6 +25,7 @@ class Node
 		this.data = o;
 	}
 
+
 	public void setNext(Node n)
 	{
 		next = n;
